@@ -1,0 +1,9 @@
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\bin\Release\NabazRemote.MemoryRepositories.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\bin\Release\NabazRemote.MemoryRepositories.pdb
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\bin\Release\Common.MemoryDatabase.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\bin\Release\NabazRemote.Domain.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\bin\Release\Common.MemoryDatabase.pdb
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\bin\Release\NabazRemote.Domain.pdb
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\obj\Release\ResolveAssemblyReference.cache
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\obj\Release\NabazRemote.MemoryRepositories.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.MemoryRepositories\obj\Release\NabazRemote.MemoryRepositories.pdb

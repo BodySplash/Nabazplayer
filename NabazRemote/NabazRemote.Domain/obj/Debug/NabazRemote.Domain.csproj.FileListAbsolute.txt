@@ -1,0 +1,5 @@
+F:\travail\nabaztag\NabazRemote\NabazRemote.Domain\bin\Debug\NabazRemote.Domain.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.Domain\bin\Debug\NabazRemote.Domain.pdb
+F:\travail\nabaztag\NabazRemote\NabazRemote.Domain\obj\Debug\ResolveAssemblyReference.cache
+F:\travail\nabaztag\NabazRemote\NabazRemote.Domain\obj\Debug\NabazRemote.Domain.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.Domain\obj\Debug\NabazRemote.Domain.pdb

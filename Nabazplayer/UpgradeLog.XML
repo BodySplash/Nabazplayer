@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Nabazplayer">
+</Property><Property Name="Solution File" Value="F:\travail\nabaztag\Nabazplayer\Nabazplayer.sln">
+</Property><Property Name="User Options File" Value="F:\travail\nabaztag\Nabazplayer\Nabazplayer.suo">
+</Property><Property Name="Date" Value="lundi 25 août 2008">
+</Property><Property Name="Time" Value="20:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Nabazplayer.sln" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Nabazplayer.suo" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.suo">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Nabazplayer.Core.csproj" Description="Project file successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Nabazplayer.Core.csproj">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Nabazplayer.Core.csproj.user" Description="Project user file successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Nabazplayer.Core.csproj.user">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\ActionEvent.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\ActionEvent.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\ActionType.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\ActionType.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\ChoregraphyCommand.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\ChoregraphyCommand.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\ChoregraphyEarCommand.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\ChoregraphyEarCommand.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\ChoregraphyEvent.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\ChoregraphyEvent.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\ChoregraphyLedCommand.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\ChoregraphyLedCommand.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\LeftEarPositionEvent.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\LeftEarPositionEvent.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\RightEarPositionEvent.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\RightEarPositionEvent.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\SendMessageEvent.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\SendMessageEvent.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Events\TextEvent.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Events\TextEvent.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Nabaztag.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Nabaztag.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\NabaztagEar.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\NabaztagEar.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\NabaztagEvent.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\NabaztagEvent.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\NabaztagEventColllection.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\NabaztagEventColllection.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\NabaztagLed.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\NabaztagLed.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\VioletApiResponse.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\VioletApiResponse.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\outter assemblies\log4net.dll" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Core\outter assemblies\log4net.dll">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Nabazplayer.Core.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Nabazplayer.Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\Nabazplayer.Test.csproj" Description="Project file successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Test\Nabazplayer.Test.csproj">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\Nabazplayer.Test.csproj.user" Description="Project user file successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Test\Nabazplayer.Test.csproj.user">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\EventsTest.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Test\EventsTest.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\MockEvent.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Test\MockEvent.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\NabaztagTest.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Test\NabaztagTest.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Test\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\outter assemblies\log4net.dll" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Test\outter assemblies\log4net.dll">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\Nabazplayer.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Nabazplayer.Test" Source="Nabazplayer.Test\Nabazplayer.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Logging" Source="Nabazplayer.Logging\Nabazplayer.Logging.csproj" Description="Project file successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Logging\Nabazplayer.Logging.csproj">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Logging" Source="Nabazplayer.Logging\Nabazplayer.Logging.csproj.user" Description="Project user file successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Logging\Nabazplayer.Logging.csproj.user">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Logging" Source="Nabazplayer.Logging\NabazLogger.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Logging\NabazLogger.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Logging" Source="Nabazplayer.Logging\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Logging\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Logging" Source="Nabazplayer.Logging\outter assemblies\log4net.dll" Description="File successfully backed up as F:\travail\nabaztag\Nabazplayer\Backup\Nabazplayer.Logging\outter assemblies\log4net.dll">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Logging" Source="Nabazplayer.Logging\Nabazplayer.Logging.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Nabazplayer.Logging" Source="Nabazplayer.Logging\Nabazplayer.Logging.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Nabazplayer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Nabazplayer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Core" Source="Nabazplayer.Core\Nabazplayer.Core.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Test" Source="Nabazplayer.Test\Nabazplayer.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Nabazplayer.Logging" Source="Nabazplayer.Logging\Nabazplayer.Logging.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

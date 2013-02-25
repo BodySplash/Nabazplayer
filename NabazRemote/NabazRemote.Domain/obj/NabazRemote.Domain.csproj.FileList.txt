@@ -1,0 +1,10 @@
+bin\Release\NabazRemote.Domain.dll
+bin\Release\NabazRemote.Domain.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\NabazRemote.Domain.dll
+obj\Release\NabazRemote.Domain.pdb
+bin\Debug\NabazRemote.Domain.dll
+bin\Debug\NabazRemote.Domain.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NabazRemote.Domain.dll
+obj\Debug\NabazRemote.Domain.pdb

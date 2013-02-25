@@ -1,0 +1,6 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\Nabazplayer.Logging.dll
+bin\Release\Nabazplayer.Logging.pdb
+bin\Release\log4net.dll
+obj\Release\Nabazplayer.Logging.dll
+obj\Release\Nabazplayer.Logging.pdb

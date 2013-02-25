@@ -1,0 +1,74 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{150D5A8D-CC5D-421B-8267-59EA9C6DA78B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Nabazplayer.Core</RootNamespace>
+    <AssemblyName>Nabazplayer.Core</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Events\ActionEvent.cs" />
+    <Compile Include="Events\ActionType.cs" />
+    <Compile Include="Events\ChoregraphyCommand.cs" />
+    <Compile Include="Events\ChoregraphyEarCommand.cs" />
+    <Compile Include="Events\ChoregraphyEvent.cs" />
+    <Compile Include="Events\ChoregraphyLedCommand.cs" />
+    <Compile Include="Events\LeftEarPositionEvent.cs" />
+    <Compile Include="Events\RightEarPositionEvent.cs" />
+    <Compile Include="Events\SendMessageEvent.cs" />
+    <Compile Include="Events\TextEvent.cs" />
+    <Compile Include="Nabaztag.cs" />
+    <Compile Include="NabaztagEar.cs" />
+    <Compile Include="NabaztagEvent.cs" />
+    <Compile Include="NabaztagEventColllection.cs" />
+    <Compile Include="NabaztagLed.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VioletApiResponse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="outter assemblies\log4net.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Nabazplayer.Logging\Nabazplayer.Logging.csproj">
+      <Project>{E02401F5-9F5F-43C0-80F3-9CDA255DDF5F}</Project>
+      <Name>Nabazplayer.Logging</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

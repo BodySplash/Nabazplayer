@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NabazRemote">
+</Property><Property Name="Solution File" Value="F:\travail\nabaztag\NabazRemote\NabazRemote.sln">
+</Property><Property Name="Date" Value="mercredi 16 janvier 2008">
+</Property><Property Name="Time" Value="20:20">
+</Property></Properties><Event ErrorLevel="0" Project="NabazRemote.GUI" Source="NabazRemote.GUI\NabazRemote.GUI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NabazRemote.GUI" Source="NabazRemote.GUI\NabazRemote.GUI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NabazRemote.Domain" Source="NabazRemote.Domain\NabazRemote.Domain.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NabazRemote.Domain" Source="NabazRemote.Domain\NabazRemote.Domain.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Common.MemoryDatabase" Source="Common.MemoryDatabase\Common.MemoryDatabase.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Common.MemoryDatabase" Source="Common.MemoryDatabase\Common.MemoryDatabase.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NabazRemote.MemoryRepositories" Source="NabazRemote.MemoryRepositories\NabazRemote.MemoryRepositories.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NabazRemote.MemoryRepositories" Source="NabazRemote.MemoryRepositories\NabazRemote.MemoryRepositories.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NabazRemote.Controllers" Source="NabazRemote.Controllers\NabazRemote.Controllers.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NabazRemote.Controllers" Source="NabazRemote.Controllers\NabazRemote.Controllers.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NabazRemote.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NabazRemote.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NabazRemote.GUI" Source="NabazRemote.GUI\NabazRemote.GUI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NabazRemote.Domain" Source="NabazRemote.Domain\NabazRemote.Domain.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Common.MemoryDatabase" Source="Common.MemoryDatabase\Common.MemoryDatabase.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NabazRemote.MemoryRepositories" Source="NabazRemote.MemoryRepositories\NabazRemote.MemoryRepositories.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NabazRemote.Controllers" Source="NabazRemote.Controllers\NabazRemote.Controllers.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

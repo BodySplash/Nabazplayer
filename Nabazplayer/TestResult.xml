@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\BodySplash\Mes documents\Visual Studio 2005\Projects\Nabazplayer\Tests.nunit" total="1" failures="0" not-run="0" date="2007-07-23" time="00:38:21">
+  <environment nunit-version="2.4.1.0" clr-version="2.0.50727.832" os-version="Microsoft Windows NT 5.1.2600 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.1\bin" machine-name="GIMLI" user="BodySplash" user-domain="GIMLI" />
+  <culture-info current-culture="fr-FR" current-uiculture="fr-FR" />
+  <test-suite name="C:\Documents and Settings\BodySplash\Mes documents\Visual Studio 2005\Projects\Nabazplayer\Tests.nunit" success="True" time="0.609" asserts="0">
+    <results>
+      <test-suite name="C:\Documents and Settings\BodySplash\Mes documents\Visual Studio 2005\Projects\Nabazplayer\Nabazplayer.Test\bin\Release\Nabazplayer.Test.dll" success="True" time="0.609" asserts="0">
+        <results>
+          <test-suite name="Nabazplayer" success="True" time="0.609" asserts="0">
+            <results>
+              <test-suite name="Test" success="True" time="0.609" asserts="0">
+                <results>
+                  <test-suite name="NabaztagTest" success="True" time="0.594" asserts="0">
+                    <results>
+                      <test-case name="Nabazplayer.Test.NabaztagTest.CanGetName" executed="True" success="True" time="0.578" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,10 @@
+bin\Release\Common.MemoryDatabase.dll
+bin\Release\Common.MemoryDatabase.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Common.MemoryDatabase.dll
+obj\Release\Common.MemoryDatabase.pdb
+bin\Debug\Common.MemoryDatabase.dll
+bin\Debug\Common.MemoryDatabase.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Common.MemoryDatabase.dll
+obj\Debug\Common.MemoryDatabase.pdb

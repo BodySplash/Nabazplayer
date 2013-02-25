@@ -1,0 +1,5 @@
+F:\travail\nabaztag\NabazRemote\Common.MemoryDatabase\bin\Release\Common.MemoryDatabase.dll
+F:\travail\nabaztag\NabazRemote\Common.MemoryDatabase\bin\Release\Common.MemoryDatabase.pdb
+F:\travail\nabaztag\NabazRemote\Common.MemoryDatabase\obj\Release\ResolveAssemblyReference.cache
+F:\travail\nabaztag\NabazRemote\Common.MemoryDatabase\obj\Release\Common.MemoryDatabase.dll
+F:\travail\nabaztag\NabazRemote\Common.MemoryDatabase\obj\Release\Common.MemoryDatabase.pdb

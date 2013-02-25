@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nabazplayer.Core", "Nabazplayer.Core\Nabazplayer.Core.csproj", "{150D5A8D-CC5D-421B-8267-59EA9C6DA78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nabazplayer.Test", "Nabazplayer.Test\Nabazplayer.Test.csproj", "{4D1F4516-E86C-4D77-B6AC-0B765E8CC056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nabazplayer.Logging", "Nabazplayer.Logging\Nabazplayer.Logging.csproj", "{E02401F5-9F5F-43C0-80F3-9CDA255DDF5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150D5A8D-CC5D-421B-8267-59EA9C6DA78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150D5A8D-CC5D-421B-8267-59EA9C6DA78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150D5A8D-CC5D-421B-8267-59EA9C6DA78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150D5A8D-CC5D-421B-8267-59EA9C6DA78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1F4516-E86C-4D77-B6AC-0B765E8CC056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1F4516-E86C-4D77-B6AC-0B765E8CC056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1F4516-E86C-4D77-B6AC-0B765E8CC056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1F4516-E86C-4D77-B6AC-0B765E8CC056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02401F5-9F5F-43C0-80F3-9CDA255DDF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02401F5-9F5F-43C0-80F3-9CDA255DDF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02401F5-9F5F-43C0-80F3-9CDA255DDF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02401F5-9F5F-43C0-80F3-9CDA255DDF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

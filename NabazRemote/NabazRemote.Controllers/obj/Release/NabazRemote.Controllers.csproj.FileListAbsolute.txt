@@ -1,0 +1,10 @@
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\bin\Release\NabazRemote.Controllers.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\bin\Release\NabazRemote.Controllers.pdb
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\bin\Release\Nabazplayer.Core.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\bin\Release\Nabazplayer.Logging.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\bin\Release\NabazRemote.Domain.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\bin\Release\log4net.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\bin\Release\NabazRemote.Domain.pdb
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\obj\Release\ResolveAssemblyReference.cache
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\obj\Release\NabazRemote.Controllers.dll
+F:\travail\nabaztag\NabazRemote\NabazRemote.Controllers\obj\Release\NabazRemote.Controllers.pdb

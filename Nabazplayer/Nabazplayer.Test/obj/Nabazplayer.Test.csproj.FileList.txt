@@ -1,0 +1,11 @@
+bin\Release\Nabazplayer.Test.dll
+bin\Release\Nabazplayer.Test.pdb
+bin\Release\nunit.framework.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Nabazplayer.Test.dll
+obj\Release\Nabazplayer.Test.pdb
+bin\Release\Nabazplayer.Core.dll
+bin\Release\Nabazplayer.Core.pdb
+bin\Release\log4net.dll
+bin\Release\Nabazplayer.Logging.dll
+bin\Release\Nabazplayer.Logging.pdb

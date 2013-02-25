@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NabazRemote.GUI", "NabazRemote.GUI\NabazRemote.GUI.csproj", "{959336AE-944A-4BBD-8DAD-A2457DCBB120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NabazRemote.Domain", "NabazRemote.Domain\NabazRemote.Domain.csproj", "{476C2BED-85B0-4FF6-918B-6028CB64A66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.MemoryDatabase", "Common.MemoryDatabase\Common.MemoryDatabase.csproj", "{7FCE6C43-5F07-4F3C-B01C-B0AE7180B854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NabazRemote.MemoryRepositories", "NabazRemote.MemoryRepositories\NabazRemote.MemoryRepositories.csproj", "{917BE84F-FE65-4AED-B6C0-5F90CE356B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NabazRemote.Controllers", "NabazRemote.Controllers\NabazRemote.Controllers.csproj", "{E30DE596-5F7F-4B10-BE83-FFDF9E362C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NabazRemote.NewGui", "NabazRemote.NewGui\NabazRemote.NewGui.csproj", "{C5A51214-BAEA-4BD7-ADC8-18CD777DA464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959336AE-944A-4BBD-8DAD-A2457DCBB120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959336AE-944A-4BBD-8DAD-A2457DCBB120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959336AE-944A-4BBD-8DAD-A2457DCBB120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959336AE-944A-4BBD-8DAD-A2457DCBB120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476C2BED-85B0-4FF6-918B-6028CB64A66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476C2BED-85B0-4FF6-918B-6028CB64A66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476C2BED-85B0-4FF6-918B-6028CB64A66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476C2BED-85B0-4FF6-918B-6028CB64A66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCE6C43-5F07-4F3C-B01C-B0AE7180B854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCE6C43-5F07-4F3C-B01C-B0AE7180B854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCE6C43-5F07-4F3C-B01C-B0AE7180B854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCE6C43-5F07-4F3C-B01C-B0AE7180B854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917BE84F-FE65-4AED-B6C0-5F90CE356B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917BE84F-FE65-4AED-B6C0-5F90CE356B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917BE84F-FE65-4AED-B6C0-5F90CE356B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917BE84F-FE65-4AED-B6C0-5F90CE356B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30DE596-5F7F-4B10-BE83-FFDF9E362C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30DE596-5F7F-4B10-BE83-FFDF9E362C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30DE596-5F7F-4B10-BE83-FFDF9E362C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30DE596-5F7F-4B10-BE83-FFDF9E362C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A51214-BAEA-4BD7-ADC8-18CD777DA464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A51214-BAEA-4BD7-ADC8-18CD777DA464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A51214-BAEA-4BD7-ADC8-18CD777DA464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A51214-BAEA-4BD7-ADC8-18CD777DA464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
